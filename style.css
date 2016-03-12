@@ -3,6 +3,7 @@ div {
   height: 100vh;
   float: left;
   padding-bottom: 11.1%;
+  z-index: 1;
 }
 
 div div {
@@ -10,4 +11,6 @@ div div {
   height: 12vh;
   float: left;
   padding-bottom: 11.1%;
+  z-index: -1;
 }
+
