@@ -1,0 +1,13 @@
+div {
+  width: 100vw;
+  height: 100vh;
+  float: left;
+  padding-bottom: 11.1%;
+}
+
+div div {
+  width: 11.1vw;
+  height: 12vh;
+  float: left;
+  padding-bottom: 11.1%;
+}
